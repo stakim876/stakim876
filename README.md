@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="김승태. 마켓, 영상, 데이터를 웹으로 만듭니다." width="100%" />
+  <img src="https://raw.githubusercontent.com/stakim876/stakim876/master/banner.png" alt="김승태. 마켓, 영상, 데이터를 웹으로 만듭니다." width="100%" />
 </p>
 
 중고 마켓과 쇼핑몰, 영상 서비스의 화면을 만들고, 게시글은 Node.js API와 데이터베이스에 저장합니다.
