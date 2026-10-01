@@ -21,6 +21,16 @@
 - [myshop-vue-app](https://github.com/stakim876/myshop-vue-app): 쇼핑몰
 - [SmartFlow-WMS-](https://github.com/stakim876/SmartFlow-WMS-): 창고 관리
 
+## 데이터베이스
+
+[codeit-api](https://github.com/stakim876/codeit-api)
+
+Node.js와 Express로 게시글 API를 만들고, 데이터를 DB에 저장했습니다.
+
+- PostgreSQL: Prisma로 `posts`, `comments` 테이블을 두고 게시글과 댓글을 연결
+- MongoDB: Mongoose로 게시글 문서를 저장
+- MySQL을 포함한 관계형 데이터 저장
+
 ## 기술
 
 HTML · CSS · JavaScript · React · Vue · TypeScript · Node.js · Express · MySQL · PostgreSQL · Prisma
