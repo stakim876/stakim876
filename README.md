@@ -23,4 +23,4 @@
 
 ## 기술
 
-HTML · CSS · JavaScript · React · Vue · TypeScript
+HTML · CSS · JavaScript · React · Vue · TypeScript · Node.js · Express · MySQL · PostgreSQL · Prisma
